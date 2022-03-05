@@ -1,7 +1,5 @@
-# Frenon  API
 
-
-> Desarrollo de test, evaluacion frenon
+> Desarrollo de test,
 ---
 
 ### Tabla de contenido
@@ -36,7 +34,7 @@ El patrón utilizado fue FACTORY, utilizado por su versatilidad para usar progra
 
 
 ## Como usar
-clone el repositorio con el comando git clone "url-git" (git clone https://github.com/BakirDiyar/frenon-test.git), posteriormente instale administrador de base de datos PostgreSql y cree una base de datos. Una vez creada registre sus credenciales en el archivo index alojado en la carpeta "databases", esta api hace referencia una tabla llamada "users", se recomienda usar los script entregados en la misma carpeta en el archivo "data.
+clone el repositorio con el comando git clone "url-git" (git clone https://github.com/BakirDiyar/api-db-sql.git), posteriormente instale administrador de base de datos PostgreSql y cree una base de datos. Una vez creada registre sus credenciales en el archivo index alojado en la carpeta "databases", esta api hace referencia una tabla llamada "users", se recomienda usar los script entregados en la misma carpeta en el archivo "data.
 sql"
 Solo a modo de demostración se protegió una ruta de la lista de endpointd creados en esta api, con fin de completar el flujo real que debe tener una api standar no pública
 
